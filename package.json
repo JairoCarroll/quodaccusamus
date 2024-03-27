@@ -1,0 +1,28 @@
+{
+  "name": "quodaccusamus",
+  "version": "1.0.0",
+  "author": "WillardDouglas",
+  "description": "Ethereum web3.js module for Webpack",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JairoCarroll/quodaccusamus.git"
+  },
+  "keywords": [
+    "maxime",
+    "fugiat",
+    "tenetur",
+    "sit",
+    "odio",
+    "smart contract",
+    "molestiae"
+  ],
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "graphlib": "^2.1.0",
+    "loader-utils": "0.2.x"
+  },
+  "peerDependencies": {
+    "web3": "*"
+  }
+}
